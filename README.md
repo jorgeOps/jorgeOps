@@ -8,25 +8,39 @@
 
 ## 🚀 Sobre mí
 
-```python
-class JorgeOlivePalacios:
-    def __init__(self):
-        self.role = "Data Scientist & Engineer"
-        self.location = "Madrid, España"
-        self.work = "Computer Vision Team @ Minsait (Indra)"
-        self.education = {
-            "degree": "Data Science and Engineering",
-            "university": "Universidad Carlos III de Madrid",
-            "erasmus": "Politecnico di Torino"
-        }
-        self.interests = ["Machine Learning", "Computer Vision", "Deep Learning", "Data Engineering"]
-        
-    def say_hi(self):
-        print("¡Gracias por visitar mi perfil! Explora mis proyectos y no dudes en contactarme.")
-
-me = JorgeOlivePalacios()
-me.say_hi()
-```
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/%F0%9F%92%BC-Analista_IA_@_Minsait-blue?style=for-the-badge" alt="Trabajo actual"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/%F0%9F%8E%93-Data_Science_&_Engineering-orange?style=for-the-badge" alt="Educación"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F-Computer_Vision-red?style=for-the-badge" alt="Especialización"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/%F0%9F%8C%8D-Madrid,_España-green?style=for-the-badge" alt="Ubicación"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/%F0%9F%8F%86-Premios_Excelencia_Académica-yellow?style=for-the-badge" alt="Reconocimientos"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/%F0%9F%92%BB-Python_|_R_|_SQL-purple?style=for-the-badge" alt="Lenguajes principales"/>
+      </td>
+    </tr>
+  </table>
+</div>
+<div align="center">
+  <p><strong>Data Scientist y Engineer con foco en Computer Vision | Experiencia en proyectos de visión artificial y procesamiento de datos</strong></p>
+  <p>Graduado en Ciencia e Ingeniería de Datos (UC3M) con estancia en Politecnico di Torino</p>
+  <p>Combinando conocimientos en Machine Learning, análisis estadístico y desarrollo de software para crear soluciones de IA</p>
+</div>
 
 ## 🛠️ Tecnologías y Herramientas
 
