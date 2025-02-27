@@ -1,48 +1,21 @@
-# ¡Hola, soy Jorge Olivé Palacios! 👋
+# ¡Hola, soy Jorge Olivé! 👋
 
 <div align="center">
   <img src="https://img.shields.io/badge/Data_Scientist-333333?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGwSURBVDhPjZLNK0RRFMDPuR/zMWNmkEKSUjaKpCxkMVbKxsZHWVD+AjsLZSshG0s2FrJRPlJGslFjYTHFyEeNmWbKzP3ec99jQcNi3u/u3XN+55x77jX/MaYlEAjEfN2YicfjB4iRyaRSa6XLu2cYXbIZ3D0ANk7HiqLxY66+CN87s2FmbCK1xZgdSOVlPYDffh/YwQm0mH2qVg1Wpk3DEjR47SRj68QYSoqKT2mUSGQimUWEfLj9F/hSDEHHh0DgC+GkGOymPNpzHcghEMIZi0nGjDGjFCq1A+8Iis8AoRjQS4HiFQN3bQilIogXnhsWY0aYRhBPUeEaQqcxj6T3EfqWGZ5HM1Gc8cBqN/C32qA6LHwnWtHvroFrbWLKNGlqRFQZz6cY6uh44C4BXKMA1yXA6xDgSAHHCTi6QWw3QxwtX/9MOjRjq7SJR9A2BrQuwLdvgXcZwL8G8HTqgLMIxg4tEDtPRbmcQvnJ2MGS4/QXDEOmU0PmQwO+j2vAV9eBH/sAHwzK6RTgSWaAH1h45dmvSZPJxLLf749VRSJlSbJ9Yz4BxEvxo9ePaZYAAAAASUVORK5CYII=" />
   <img src="https://img.shields.io/badge/Data_Engineer-333333?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGwSURBVDhPjZLNK0RRFMDPuR/zMWNmkEKSUjaKpCxkMVbKxsZHWVD+AjsLZSshG0s2FrJRPlJGslFjYTHFyEeNmWbKzP3ec99jQcNi3u/u3XN+55x77jX/MaYlEAjEfN2YicfjB4iRyaRSa6XLu2cYXbIZ3D0ANk7HiqLxY66+CN87s2FmbCK1xZgdSOVlPYDffh/YwQm0mH2qVg1Wpk3DEjR47SRj68QYSoqKT2mUSGQimUWEfLj9F/hSDEHHh0DgC+GkGOymPNpzHcghEMIZi0nGjDGjFCq1A+8Iis8AoRjQS4HiFQN3bQilIogXnhsWY0aYRhBPUeEaQqcxj6T3EfqWGZ5HM1Gc8cBqN/C32qA6LHwnWtHvroFrbWLKNGlqRFQZz6cY6uh44C4BXKMA1yXA6xDgSAHHCTi6QWw3QxwtX/9MOjRjq7SJR9A2BrQuwLdvgXcZwL8G8HTqgLMIxg4tEDtPRbmcQvnJ2MGS4/QXDEOmU0PmQwO+j2vAV9eBH/sAHwzK6RTgSWaAH1h45dmvSZPJxLLf749VRSJlSbJ9Yz4BxEvxo9ePaZYAAAAASUVORK5CYII=" />
-  <img src="https://img.shields.io/badge/Computer_Vision-333333?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_&_Computer_Vision-333333?style=for-the-badge&logo=opencv&logoColor=white" />
 </div>
 
 ## 🚀 Sobre mí
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/%F0%9F%92%BC-Analista_IA_@_Minsait-blue?style=for-the-badge" alt="Trabajo actual"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/%F0%9F%8E%93-Data_Science_&_Engineering-orange?style=for-the-badge" alt="Educación"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F-Computer_Vision-red?style=for-the-badge" alt="Especialización"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/%F0%9F%8C%8D-Madrid,_España-green?style=for-the-badge" alt="Ubicación"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/%F0%9F%8F%86-Premios_Excelencia_Académica-yellow?style=for-the-badge" alt="Reconocimientos"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/%F0%9F%92%BB-Python_|_R_|_SQL-purple?style=for-the-badge" alt="Lenguajes principales"/>
-      </td>
-    </tr>
-  </table>
-</div>
-<div align="center">
-  <p><strong>Data Scientist y Engineer con foco en Computer Vision | Experiencia en proyectos de visión artificial y procesamiento de datos</strong></p>
-  <p>Graduado en Ciencia e Ingeniería de Datos (UC3M) con estancia en Politecnico di Torino</p>
-  <p>Combinando conocimientos en Machine Learning, análisis estadístico y desarrollo de software para crear soluciones de IA</p>
-</div>
+Soy un ingeniero de datos especializado en Computación Visual con experiencia en desarrollo de soluciones de inteligencia artificial. Actualmente trabajo en el equipo de Computer Vision dentro del departamento de Inteligencia Artificial de Minsait (Indra) en Madrid.
+Graduado en Ciencia e Ingeniería de Datos por la Universidad Carlos III de Madrid.
+Mi experiencia incluye proyectos de vigilancia activa mediante visión artificial y procesos ETL para grandes bases de datos, utilizando tecnologías como Python, TensorFlow, Docker y diversas plataformas cloud.
+Apasionado por el Machine Learning y la visión por computadora, busco constantemente nuevos desafíos para aplicar y expandir mis conocimientos en el campo de la ciencia de datos.
 
 ## 🛠️ Tecnologías y Herramientas
+
+Estas son algunas de las tecnologías con las que he trabajado a lo largo de mi carrera y experiencia profesional.
 
 <div align="center">
 
@@ -78,12 +51,6 @@
 - **Erasmus** - _Politecnico di Torino (2022-2023)_
   - Máster en Ciencia e Ingeniería de Datos
 
-## 🏆 Reconocimientos
-
-- Premio a la Excelencia Universitaria de la Comunidad de Madrid (2020, 2021)
-- Honores Académicos en tesis sobre Machine Learning y Visión Computacional
-- Finalista en el Concurso de Matemáticas de Primavera de la Comunidad de Madrid (2019)
-- 22.5 créditos aprobados con Matrícula de Honor durante la carrera universitaria
 
 ## 🌐 Idiomas
 
