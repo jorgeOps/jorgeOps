@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mí
 
-Soy un **ingeniero de datos** especializado en Computación Visual con experiencia en desarrollo de soluciones de inteligencia artificial. Actualmente trabajo en el equipo de **Computer Vision** dentro del departamento de Inteligencia Artificial de Minsait (Indra) en Madrid.
+Soy un **ingeniero de datos** especializado en Computación Visual con experiencia en desarrollo de soluciones de inteligencia artificial. Actualmente trabajo en el equipo de **Computer Vision** dentro del departamento de Inteligencia Artificial de Minsait (Indra) en Madrid. Estoy dentro de un proyecto enfocado a la IA Generativa, montando sistemas RAG.
 
 Graduado en Ciencia e Ingeniería de Datos por la Universidad Carlos III de Madrid.<br>
 Mi experiencia incluye proyectos de vigilancia activa mediante visión artificial y procesos ETL para grandes bases de datos, utilizando tecnologías como Python, TensorFlow, Docker y diversas plataformas cloud.
