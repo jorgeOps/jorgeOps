@@ -1,8 +1,8 @@
 # ¡Hola, soy Jorge Olivé! 👋
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Data_Scientist-333333?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGwSURBVDhPjZLNK0RRFMDPuR/zMWNmkEKSUjaKpCxkMVbKxsZHWVD+AjsLZSshG0s2FrJRPlJGslFjYTHFyEeNmWbKzP3ec99jQcNi3u/u3XN+55x77jX/MaYlEAjEfN2YicfjB4iRyaRSa6XLu2cYXbIZ3D0ANk7HiqLxY66+CN87s2FmbCK1xZgdSOVlPYDffh/YwQm0mH2qVg1Wpk3DEjR47SRj68QYSoqKT2mUSGQimUWEfLj9F/hSDEHHh0DgC+GkGOymPNpzHcghEMIZi0nGjDGjFCq1A+8Iis8AoRjQS4HiFQN3bQilIogXnhsWY0aYRhBPUeEaQqcxj6T3EfqWGZ5HM1Gc8cBqN/C32qA6LHwnWtHvroFrbWLKNGlqRFQZz6cY6uh44C4BXKMA1yXA6xDgSAHHCTi6QWw3QxwtX/9MOjRjq7SJR9A2BrQuwLdvgXcZwL8G8HTqgLMIxg4tEDtPRbmcQvnJ2MGS4/QXDEOmU0PmQwO+j2vAV9eBH/sAHwzK6RTgSWaAH1h45dmvSZPJxLLf749VRSJlSbJ9Yz4BxEvxo9ePaZYAAAAASUVORK5CYII=" />
-  <img src="https://img.shields.io/badge/Data_Engineer-333333?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGwSURBVDhPjZLNK0RRFMDPuR/zMWNmkEKSUjaKpCxkMVbKxsZHWVD+AjsLZSshG0s2FrJRPlJGslFjYTHFyEeNmWbKzP3ec99jQcNi3u/u3XN+55x77jX/MaYlEAjEfN2YicfjB4iRyaRSa6XLu2cYXbIZ3D0ANk7HiqLxY66+CN87s2FmbCK1xZgdSOVlPYDffh/YwQm0mH2qVg1Wpk3DEjR47SRj68QYSoqKT2mUSGQimUWEfLj9F/hSDEHHh0DgC+GkGOymPNpzHcghEMIZi0nGjDGjFCq1A+8Iis8AoRjQS4HiFQN3bQilIogXnhsWY0aYRhBPUeEaQqcxj6T3EfqWGZ5HM1Gc8cBqN/C32qA6LHwnWtHvroFrbWLKNGlqRFQZz6cY6uh44C4BXKMA1yXA6xDgSAHHCTi6QWw3QxwtX/9MOjRjq7SJR9A2BrQuwLdvgXcZwL8G8HTqgLMIxg4tEDtPRbmcQvnJ2MGS4/QXDEOmU0PmQwO+j2vAV9eBH/sAHwzK6RTgSWaAH1h45dmvSZPJxLLf749VRSJlSbJ9Yz4BxEvxo9ePaZYAAAAASUVORK5CYII=" />
+  <img src="https://img.shields.io/badge/Data_Scientist-333333?style=for-the-badge&logo=lightbulb&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML_&_AI_Engineer-333333?style=for-the-badge&logo=robot-framework&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_&_Computer_Vision-333333?style=for-the-badge&logo=opencv&logoColor=white" />
 </div>
 
